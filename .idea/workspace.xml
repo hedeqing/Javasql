@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf59c10f-8427-43a7-911e-3b1072d3a6bd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JavaSql$LoginLayoutDesign.ic" NAME="LoginLayoutDesign Coverage Results" MODIFIED="1530177139671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Layout.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaSql$Adminlogin.ic" NAME="Adminlogin Coverage Results" MODIFIED="1530190831935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Layout.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaSql$Table.ic" NAME="Table Coverage Results" MODIFIED="1530158922990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Layout.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaSql$UserLoginNew.ic" NAME="UserLoginNew Coverage Results" MODIFIED="1530345562594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.Layout.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ConstansUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Layout/ConstansUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBC.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Layout/DBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#reaseach#0;class#DBC#0" />
+                <element signature="method#authorized#0;class#DBC#0" />
+                <element signature="method#update#0;class#DBC#0" />
+                <element signature="method#delete#0;class#DBC#0" />
+                <element signature="method#reaseach#1;class#DBC#0" />
+                <element signature="method#delete#1;class#DBC#0" />
+                <element signature="method#reaseach#2;class#DBC#0" />
+                <element signature="method#update#1;class#DBC#0" />
+                <element signature="method#update#2;class#DBC#0" />
+                <element signature="method#main#0;class#DBC#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Com.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Test.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Test.java" />
+        <option value="$PROJECT_DIR$/src/Homework/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/Hello.java" />
+        <option value="$PROJECT_DIR$/src/com/activity/Hello.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/UserCol.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/Company.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/Courier.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/Goods.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/Track.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/WareHouses.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/SqlServer.java" />
+        <option value="$PROJECT_DIR$/src/com/Table/Administrator.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/test.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Table.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Table.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/MyJTabel.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/RegisterLayout.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/ConstansUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/ConstansUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/twst.java" />
+        <option value="$PROJECT_DIR$/src/com/twst.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/RegisterLayout.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/LoginLayout.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/DBC.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/UserLoginNew.java" />
+        <option value="$PROJECT_DIR$/src/com/Layout/Adminlogin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="700" />
+    <option name="y" value="40" />
+    <option name="width" value="870" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javasql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javasql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javasql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javasql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Javasql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="mssql-jdbc-6.4.0.jre9.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="insert&#9;PSI&#9;JAVA://sun.text.bidi.BidiBase.InsertPoints&#10;seted&#9;PSI&#9;JAVA://javax.swing.JTree#setEditable&#10;box&#9;PSI&#9;JAVA://javax.swing.Box&#10;jL&#9;FILE&#9;jrt://D:/jdk!/java.desktop/javax/swing/JLayer.class&#10;jdk&#9;PSI&#9;JAVA://jdk.nashorn.internal.scripts.JD&#10;configu&#9;PSI&#9;JAVA://java.lang.module.Configuration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/.idea" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaSql\src\com\Layout" />
+      <recent name="D:\JavaSql\src\com" />
+      <recent name="D:\JavaSql\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaSql\src\com\Layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LoginLayoutDesign">
+    <configuration name="Adminlogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Layout.Adminlogin" />
+      <module name="JavaSql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InterFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Layout.InterFrame" />
+      <module name="JavaSql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LoginLayoutDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Layout.LoginLayoutDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyJTabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Layout.MyJTabel" />
+      <module name="JavaSql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UserLoginNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Layout.UserLoginNew" />
+      <module name="JavaSql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Layout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="twst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twst" />
+      <module name="JavaSql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginLayoutDesign" />
+      <item itemvalue="Application.UserLoginNew" />
+      <item itemvalue="Application.Adminlogin" />
+      <item itemvalue="Application.MyJTabel" />
+      <item itemvalue="Application.twst" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginLayoutDesign" />
+        <item itemvalue="Application.UserLoginNew" />
+        <item itemvalue="Application.Adminlogin" />
+        <item itemvalue="Application.twst" />
+        <item itemvalue="Application.MyJTabel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf59c10f-8427-43a7-911e-3b1072d3a6bd" name="Default" comment="" />
+      <created>1528901430806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528901430806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="560" y="32" width="696" height="664" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2931507" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3431085" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3294271" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32689655" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831737" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Layout/Adminlogin.java</url>
+          <line>301</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Layout/DBC.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Layout/Adminlogin.java</url>
+          <line>312</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/LoginLayout2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Adminstratorlogin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/TrackInformation.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Internalframe.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/JInternalFrame.java" />
+    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="432" column="21" selection-start-line="432" selection-start-column="21" selection-end-line="432" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/240484406/FileRecv/HomeScreen(1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/java/awt/Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Documents/Tencent Files/240484406/FileRecv/sqljdbc_6.4/chs/mssql-jdbc-6.4.0.jre9.jar!/com/microsoft/sqlserver/jdbc/SQLServerException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/javax/swing/JTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="790" column="16" selection-start-line="790" selection-start-column="16" selection-end-line="790" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/javax/swing/JComboBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="405" column="16" selection-start-line="405" selection-start-column="16" selection-end-line="405" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="879" column="16" selection-start-line="879" selection-start-column="16" selection-end-line="879" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/sun/text/bidi/BidiBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="541" column="31" lean-forward="true" selection-start-line="541" selection-start-column="31" selection-end-line="541" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="651" selection-start-line="651" selection-end-line="651" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Homework/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework/Com.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/activity/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Table/WareHouses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Table/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2040">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Table/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Table/Courier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Table/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Table/UserCol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid19232.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="154" column="14" selection-start-line="154" selection-start-column="14" selection-end-line="154" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Userlogin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Mydesign.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/ConnectSQL.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/InterFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Logindialog.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/ModifyLayout.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Registerdialog.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/SqlServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Table.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/MyJTabel.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Table/Administrator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/UserInformation.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/TraceInformation.java" />
+    <entry file="file://$PROJECT_DIR$/src/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/LoginActivity.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/twst.java" />
+    <entry file="jar://D:/jdk/lib/src.zip!/java.desktop/javax/swing/JTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="169" column="12" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/UserLoginNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="175" column="32" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/LoginLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/RegisterLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/LoginLayoutDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/Adminlogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid23048.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/ConstansUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Layout/DBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#reaseach#0;class#DBC#0" />
+            <element signature="method#authorized#0;class#DBC#0" />
+            <element signature="method#update#0;class#DBC#0" />
+            <element signature="method#delete#0;class#DBC#0" />
+            <element signature="method#reaseach#1;class#DBC#0" />
+            <element signature="method#delete#1;class#DBC#0" />
+            <element signature="method#reaseach#2;class#DBC#0" />
+            <element signature="method#update#1;class#DBC#0" />
+            <element signature="method#update#2;class#DBC#0" />
+            <element signature="method#main#0;class#DBC#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaSql</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
